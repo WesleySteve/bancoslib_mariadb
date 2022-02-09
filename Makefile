@@ -15,8 +15,7 @@ format:
 	black -l 88 **/*.py
 
 install:
-	pip3 install . && \
-	pip3 install git+https://github.com/WesleySteve/bancoslib.git
+	pip3 install . 
 
 	
 
