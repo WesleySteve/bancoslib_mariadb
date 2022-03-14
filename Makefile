@@ -15,12 +15,7 @@ format:
 	black -l 88 **/*.py
 
 install:
-	pip3 install . 
-
-	
-
-installdev:
-	pip3 install -e .['dev']
+	pip3 install .
 	
 
 uninstall:
