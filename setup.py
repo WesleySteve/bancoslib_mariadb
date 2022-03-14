@@ -17,5 +17,5 @@ setup(
     packages=find_packages(),
     include_package_data=True,
     install_requires=ler("requirements.txt"),
-    extras_require={"dev": ler("requirements-dev.txt")}
+    
 )
