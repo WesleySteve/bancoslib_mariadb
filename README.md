@@ -11,6 +11,5 @@ no banco de dados MariaDB
 - │   └── mariadb.py
 - ├── Makefile
 - ├── README.md
-- ├── requirements-dev.txt
 - ├── requirements.txt
 - └── setup.py
